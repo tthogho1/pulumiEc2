@@ -1,0 +1,3 @@
+name: pulumiAWSEc2
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
